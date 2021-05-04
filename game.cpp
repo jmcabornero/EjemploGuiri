@@ -1,6 +1,6 @@
 #include "Game.h"
 #include "TextureManager.h"
-#include "GameObject2.h"
+#include "GameObject.h"
 
 GameObject* player;
 
